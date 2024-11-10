@@ -20,13 +20,13 @@ This project is a front-end clone of the original Google web search interface fr
 ## Screenshots
 
 1. **HTML (`index.html`)**  
-   ![HTML Screenshot](/Users/rajvardhanpatil/Desktop/html_ss.png)
+   ![HTML Screenshot](html_ss.png)
 
 2. **CSS (`style.css`)**  
-   ![CSS Screenshot](/Users/rajvardhanpatil/Desktop/css_ss.png)
+   ![CSS Screenshot](css_ss.png)
 
 3. **README File (`README.md`)**  
-   ![README Screenshot](/Users/rajvardhanpatil/Desktop/readme_ss.png)
+   ![README Screenshot](readme_ss.png)
 
 ## How to Use
 
