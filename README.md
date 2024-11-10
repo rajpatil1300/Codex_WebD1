@@ -17,6 +17,17 @@ This project is a front-end clone of the original Google web search interface fr
 - **HTML**: Provides the structure for the webpage.
 - **CSS**: Styles the elements to closely resemble Google’s 1998 design.
 
+## Screenshots
+
+1. **HTML (`index.html`)**  
+   ![HTML Screenshot](Desktop/html_ss.png)
+
+2. **CSS (`style.css`)**  
+   ![CSS Screenshot](Desktop/css_ss.png)
+
+3. **README File (`README.md`)**  
+   ![README Screenshot](Desktop/readme_ss.png)
+
 ## How to Use
 
 1. Clone this repository or download the ZIP file.
